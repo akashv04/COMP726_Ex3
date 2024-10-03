@@ -1,3 +1,10 @@
 2. How much gas did you pay to deploy your contract? What are some implications of the gas auction fees model (Tutorial 9)?
 
-We paid 2 USD for the gas to deploy our contract
+Our group paid $2 to deploy the contract, which suggests the network wasn't heavily congested, 
+and the contract wasn’t too complex, meaning fewer computational resources were required.
+
+Implications of the Gas Auction Fees Model:
+Fee Variability: Gas prices fluctuate based on network activity. The same contract could cost more or less depending on how many users are competing to have their transactions processed at the same time.
+Priority-Based Processing: Transactions with higher gas fees get processed faster, so if you're in a rush, you'll need to pay more. With lower fees like $2, your transaction might be slower but cheaper.
+Cost Uncertainty: It’s hard to predict exact costs ahead of time. During peak network usage, fees can spike, making transaction costs unpredictable.
+In short, paying $2 was affordable, but in a busier network, the price could have been much higher. The auction model balances speed with cost, depending on what users are willing to pay.
